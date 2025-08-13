@@ -1,27 +1,29 @@
-# BMW-CAR-SALES-CLASSIFICATION
-Here’s a **detailed and engaging LinkedIn caption** for your Tableau version:
+# BMW-CAR-SALES-CLASSIFICATION (POWER BI)
+
+
+**"🚗 From Data to Decisions — My Latest Power BI Project on BMW Sales Analysis**
+
+Excited to share my newly built **interactive BMW Sales & Performance Dashboard** in Power BI. This dashboard brings together key insights from multiple metrics to tell a compelling data story.
+
+🔍 **Key Features:**
+
+* **Total Sales Volume:** 253.38M units analyzed across various BMW models.
+* **Average Mileage & Pricing:** Offering a clear picture of performance vs. value.
+* **Model-Wise Analysis:** Compare **fuel types, engine sizes, colors, and prices** across the BMW lineup.
+* **Year Filter:** Dynamic range selector to track performance trends from 2010 to 2024.
+* **Interactive Visuals:** Line charts, donut charts, and bar graphs for quick comparisons.
+
+💡 This dashboard enables stakeholders to:
+
+* Identify top-selling models.
+* Analyze market trends over time.
+* Understand consumer preferences for color, fuel type, and performance.
+* Support data-driven decision-making for marketing, production, and sales.
+
+Built entirely in **Power BI**, this project highlights the importance of blending **clean data modeling, interactive visuals, and user-friendly design** to transform raw data into actionable insights.
+
+\#PowerBI #DataAnalytics #BMW #BusinessIntelligence #DataVisualization #DashboardDesign #AnalyticsInAction #DataDriven"\*\*
 
 ---
 
-**"🚗 Accelerating Insights with Tableau — BMW Sales & Performance Dashboard**
 
-Thrilled to share my latest **BMW Sales Analysis Dashboard**, now built in **Tableau** for powerful, interactive storytelling.
-
-🔍 **Key Highlights:**
-
-* **Sales Overview:** 253.38M total sales volume analyzed across multiple BMW models.
-* **Performance Metrics:** Mileage, pricing, and sales classification in one unified view.
-* **Model-Wise Trends:** Fuel type distribution, engine size analysis, and price comparisons.
-* **Dynamic Filtering:** Year slider (2010–2024) for trend exploration over time.
-* **Visual Variety:** Line graphs, bar charts, and donut charts for a clear, impactful narrative.
-
-💡 **Why Tableau?**
-Tableau’s flexibility and visual fluency allowed me to transform raw datasets into an interactive decision-making tool — enabling stakeholders to explore patterns, identify best-selling models, and align strategies with market demand.
-
-Data is powerful, but **data visualized is unforgettable**.
-
-\#Tableau #DataAnalytics #BMW #BusinessIntelligence #DataVisualization #DashboardDesign #AnalyticsInAction #DataStorytelling"\*\*
-
----
-
-If you want, I can also give you a **shorter, more eye-catching version** that’s perfect for quick engagement on LinkedIn.
